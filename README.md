@@ -1,4 +1,4 @@
 # C-Programming
-Notable C-Programming Projects
+Notable C-Programming Project
 
-Archive of my most-recent projects written in C.
+Archive of my most-recent project written in C.
