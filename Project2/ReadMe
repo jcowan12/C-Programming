@@ -1,1 +1,2 @@
 
+This program will prompt the user to input a number of buckets, each with a certain amount of change. The program will then tally up the change and display the bucket with the most coins.
